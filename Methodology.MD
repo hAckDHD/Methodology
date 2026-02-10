@@ -1,10 +1,13 @@
-#hAckDHD
+<!--########################################### -->
+<!--### hAckDHD -->
+<!--## methodology of hacking and defending -->
+<!--# -->
+<!--## this will let me lay out my methods in a markup form -->
+<!--# -->
+<!--##################################################### -->
 
-#methodology of hacking and defending
 
-#this will let me lay out my methods in a markup form
-
-# BUILDING A `~~FUCKING~~` METHODOLGY
+# BUILDING A ~~FUCKING~~ METHODOLGY #
 
 ## RESOURCES THAT HELPED
 
