@@ -9,34 +9,18 @@
 
 # BUILDING A ~~FUCKING~~ METHODOLGY #
 
-## RESOURCES THAT HELPED
-
+## RESOURCES THAT HELPED 
 - https://buymeacoffee.com/d3adshot/extras
 - https://corelight.com/resources/glossary/false-positives-cybersecurity
 - 
 
-# RED TEAM
+## RED TEAM
 
-## NETWORK
+## BLUE TEAM
 
-- LIST
-    - LIST
+### THE BASICS
 
-## NETWORK
-
-- LIST
-    - LIST
-
-## NETWORK
-
-- LIST
-    - LIST
-
-# BLUE TEAM
-
-## THE BASICS
-
-### 5 W’S
+#### 5 W’S
 
 - WHO
     - WHO TRIED TO GET IN
@@ -49,15 +33,15 @@
 - WHY
     - WHY IS THIS CAUSING AN ALERT
 
-### WHAT SHOULD I KNOW TO BE AN AWESOME BLUE TEAMER
+#### WHAT SHOULD I KNOW TO BE AN AWESOME BLUE TEAMER
 
-### SOC ANALYST
+#### SOC ANALYST
 
-### DEV SEC OPS
+#### DEV SEC OPS
 
-### DETECTION ENGINEERING
+#### DETECTION ENGINEERING
 
-### THREAT HUNTING
+#### THREAT HUNTING
 
 ## HOW TO TAKE NOTES IN A TICKET
 
@@ -72,7 +56,7 @@
 - EVIDENCE
 - SHORT SUMMARTY TLDR
 
-Why for the list above?
+#### Why for the list above? 
 
 Think of it this way, You need to be able to articulate your ticket so the following people can understand the ticket, why its important, and what the impact/action steps required are
 
@@ -151,95 +135,3 @@ LUSRMGR.MSC - If you don't know what this is just throw it in GOOGLE.
 There will not always be a runbook/playbook that will explain the step by step of how to push buttons to do your job 
 
 Many of the products you use will have extensive documentation and forums that can help you find out why alerts are firing off.  Don't take the forums to heart as there are many internet warriors out there who do not know what an [RFC 1918](https://www.rfc-editor.org/rfc/rfc1918.html) is and still throws them into tools to see if they are malicious.
-
-## PLACE HOLDER
-
-- LIST
-    - LIST
-
-# MY METHODOLOGY
-
-# RED TEAM
-
-## NETWORK
-
-- LIST
-    - LIST
-
-## NETWORK
-
-- LIST
-    - LIST
-
-## NETWORK
-
-- LIST
-    - LIST
-
-# BLUE TEAM
-
-## NETWORK
-
-- LIST
-    - LIST
-
-## NETWORK
-
-- LIST
-    - LIST
-
-## NETWORK
-
-- LIST
-    - LIST
-
-# WEB APPLICATION TEST
-
-## NETWORK
-
-- LIST
-    - LIST
-
-## NETWORK
-
-- LIST
-    - LIST
-
-## NETWORK
-
-- LIST
-    - LIST
-
-# EMAIL
-
-## NETWORK
-
-- LIST
-    - LIST
-
-## NETWORK
-
-- LIST
-    - LIST
-
-## NETWORK
-
-- LIST
-    - LIST
-
-# RED TEAM
-
-## NETWORK
-
-- LIST
-    - LIST
-
-## NETWORK
-
-- LIST
-    - LIST
-
-## NETWORK
-
-- LIST
-    - LIST
