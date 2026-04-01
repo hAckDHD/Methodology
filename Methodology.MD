@@ -10,7 +10,8 @@
    
 [Blue Team](#blueteam)<br>
 <ul>
-  <br><li><a href="#thebasics">Ticket Basics</a></li><br/>
+  <br> <li><a href="#thebasics">Ticket Basics</a></li> <br/>
+
   <li><a href="#5w">The 5 W's of tickets</a></li>
 </ul>
 
