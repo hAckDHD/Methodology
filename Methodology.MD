@@ -19,6 +19,7 @@
 
 ## RESOURCES THAT HELPED 
 <ul>
+
    [d3adshot's Hacker Playbook](https://buymeacoffee.com/d3adshot/extras)
 
    [Core Litghts take on False Positivies](https://corelight.com/resources/glossary/false-positives-cybersecurity)
