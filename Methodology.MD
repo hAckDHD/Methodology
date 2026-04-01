@@ -17,8 +17,8 @@
 # BUILDING A METHODOLOGY #
 
 ## RESOURCES THAT HELPED 
-- [d3adshot's Hacker Playbook](https://buymeacoffee.com/d3adshot/extras)
-- [Core Litghts take on False Positivies](https://corelight.com/resources/glossary/false-positives-cybersecurity)
+ &nbsp; &nbsp; &nbsp;[d3adshot's Hacker Playbook](https://buymeacoffee.com/d3adshot/extras)
+ &nbsp; &nbsp; &nbsp;[Core Litghts take on False Positivies](https://corelight.com/resources/glossary/false-positives-cybersecurity)
 - 
 <a id="redteam"></a>
 # RED TEAM
