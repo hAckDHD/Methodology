@@ -6,10 +6,11 @@
 <!--# -->
 <!--##################################################### -->
 # Elevator(it beats the stairs)
-    [Red Team](#redteam)
-    [Blue Team](#blueteam)
-        [Ticket Basics](#thebasics)
-            [The 5 W's of tickets](#5w)
+[Red Team](#redteam)
+   
+[Blue Team](#blueteam)
+    [Ticket Basics](#thebasics)
+    [The 5 W's of tickets](#5w)
             
 
 
