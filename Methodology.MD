@@ -5,7 +5,9 @@
 <!--## this will let me lay out my methods in a markup form -->
 <!--# -->
 <!--##################################################### -->
-
+# Elevator
+- [Readteam](## RED TEAM)
+- [Blue Team](## BLUE TEAM)
 
 # BUILDING A METHODOLOGY #
 
