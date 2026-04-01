@@ -5,7 +5,7 @@
 <!--## this will let me lay out my methods in a markup form -->
 <!--# -->
 <!--##################################################### -->
-# Elevator(it beats the stairs)
+# Elevator (it beats the stairs)
 [Red Team](#redteam)
    
 [Blue Team](#blueteam)<br>
@@ -17,8 +17,8 @@
 # BUILDING A METHODOLOGY #
 
 ## RESOURCES THAT HELPED 
-- https://buymeacoffee.com/d3adshot/extras
-- https://corelight.com/resources/glossary/false-positives-cybersecurity
+- [d3adshot's Hacker Playbook](https://buymeacoffee.com/d3adshot/extras)
+- [Core Litghts take on False Positivies](https://corelight.com/resources/glossary/false-positives-cybersecurity)
 - 
 <a id="redteam"></a>
 # RED TEAM
