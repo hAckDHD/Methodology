@@ -10,8 +10,7 @@
     [Blue Team](#blueteam)
         [Ticket Basics](#thebasics)
             [The 5 W's of tickets](#5w)
-            [Blue Team](#blueteam)
-            [Blue Team](#blueteam)
+            
 
 
 # BUILDING A METHODOLOGY #
@@ -22,7 +21,7 @@
 - 
 <a id="redteam"></a>
 # RED TEAM
-
+pending nmap scan to finish on CIDR 0.0.0.0/0..... (progress 0/100%)
 
 
 <a id="blueteam"></a>
@@ -111,7 +110,7 @@ Think of it this way, you need to be able to articulate your ticket so the follo
     No malicious activity is found however, the IP is from Russia and is not in our geolocation allow list
     Block request created for the ip and users account has been locked for investigation. Virus scan running for the users pc
     ```
-ALSO 
+ALSO <br>
 Treat tickets as if they were your company. If you're in an [MSSP](https://letmegooglethat.com/?q=What+is+an+MSSP+in+cybersecurity) you are providing customer service; however, even in a regular SOC that's internal, you are providing a service in a cost center that does not make the company money. You need to be giving it your all so that the business can operate at full capacity while being confident that they have security with their cybersecurity
 
 ## WHAT IS CONSIDERED A FALSE POSITIVE/FALSE NEGATIVE
