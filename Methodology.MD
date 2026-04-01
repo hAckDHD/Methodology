@@ -5,9 +5,14 @@
 <!--## this will let me lay out my methods in a markup form -->
 <!--# -->
 <!--##################################################### -->
-# Elevator
-- [Red Team](#redteam)
-- [Blue Team](#blueteam)
+# Elevator(it beats the stairs)
+    [Red Team](#redteam)
+    [Blue Team](#blueteam)
+        [Ticket Basics](#thebasics)
+            [The 5 W's of tickets](#5w)
+            [Blue Team](#blueteam)
+            [Blue Team](#blueteam)
+
 
 # BUILDING A METHODOLOGY #
 
@@ -16,16 +21,18 @@
 - https://corelight.com/resources/glossary/false-positives-cybersecurity
 - 
 <a id="redteam"></a>
-## RED TEAM
+# RED TEAM
 
 
 
 <a id="blueteam"></a>
-## BLUE TEAM
+# BLUE TEAM
 
-### THE BASICS
+<a id="thebasics"></a>
+## THE BASICS
 
-#### 5 W’S
+<a id="5w"></a>
+### 5 W’S
 
 - WHO
     - WHO TRIED TO GET IN
@@ -37,32 +44,22 @@
     - WHERE ARE THE MACHINES BEING ACCESSED
 - WHY
     - WHY IS THIS CAUSING AN ALERT
-
-#### WHAT SHOULD I KNOW TO BE AN AWESOME BLUE TEAMER
-
-#### SOC ANALYST
-
-#### DEV SEC OPS
-
-#### DETECTION ENGINEERING
-
-#### THREAT HUNTING
-
-## HOW TO TAKE NOTES IN A TICKET
+<a id="howntotakenotes"></a>
+### HOW TO TAKE NOTES IN A TICKET
 
 - Taking notes in a ticket are important. Just saying “FP” or “Known Activity” just does not cut it.
 - “So how do I take effective notes?”
     - To take effective notes, keep in mind this phrase
         - “If it is not in the ticket, it didn't happen.”
 
+<a id="whatinticket"></a>
 ### WHAT TO PUT IN THE TICKET
 
 - DETAILS
 - EVIDENCE
 - SHORT SUMMARY TLDR
-
+<a id="whylist"></a>
 #### Why for the list above? 
-
 Think of it this way, you need to be able to articulate your ticket so the following people can understand the ticket, why it's important, and what the impact/action steps required are
 
 - Your team
@@ -114,7 +111,8 @@ Think of it this way, you need to be able to articulate your ticket so the follo
     No malicious activity is found however, the IP is from Russia and is not in our geolocation allow list
     Block request created for the ip and users account has been locked for investigation. Virus scan running for the users pc
     ```
-    
+ALSO 
+Treat tickets as if they were your company. If you're in an [MSSP](https://letmegooglethat.com/?q=What+is+an+MSSP+in+cybersecurity) you are providing customer service; however, even in a regular SOC that's internal, you are providing a service in a cost center that does not make the company money. You need to be giving it your all so that the business can operate at full capacity while being confident that they have security with their cybersecurity
 
 ## WHAT IS CONSIDERED A FALSE POSITIVE/FALSE NEGATIVE
 
