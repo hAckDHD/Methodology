@@ -9,8 +9,8 @@
 [Red Team](#redteam)
    
 [Blue Team](#blueteam)<br>
-    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Ticket Basics](#thebasics)
-    &nbsp;[The 5 W's of tickets](#5w)
+   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Ticket Basics](#thebasics)<br>
+   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[The 5 W's of tickets](#5w)
             
 
 
