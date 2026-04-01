@@ -6,8 +6,8 @@
 <!--# -->
 <!--##################################################### -->
 # Elevator
-- [Readteam](## RED TEAM)
-- [Blue Team](## BLUE TEAM)
+- [Red Team](#redteam)
+- [Blue Team](#blueteam)
 
 # BUILDING A METHODOLOGY #
 
@@ -15,9 +15,12 @@
 - https://buymeacoffee.com/d3adshot/extras
 - https://corelight.com/resources/glossary/false-positives-cybersecurity
 - 
-
+<a id="redteam"></a>
 ## RED TEAM
 
+
+
+<a id="blueteam"></a>
 ## BLUE TEAM
 
 ### THE BASICS
