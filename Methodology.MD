@@ -24,6 +24,8 @@
 
    [Core Litghts take on False Positivies](https://corelight.com/resources/glossary/false-positives-cybersecurity)
 </ul>
+
+
 <a id="redteam"></a>
 # RED TEAM
 pending nmap scan to finish on CIDR 0.0.0.0/0..... (progress 0/100%)
