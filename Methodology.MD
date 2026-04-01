@@ -9,9 +9,10 @@
 [Red Team](#redteam)
    
 [Blue Team](#blueteam)<br>
-   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Ticket Basics](#thebasics) <br>
-   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[The 5 W's of tickets](#5w)
-            
+<ul>
+  <li><a href="#thebasics">Ticket Basics</a></li>
+  <li><a href="#5w">The 5 W's of tickets</a></li>
+</ul>
 
 
 # BUILDING A METHODOLOGY #
